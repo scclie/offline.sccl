@@ -1,0 +1,12 @@
+.zine_version = "0.13.0",
+.site = .simple(.{
+    .title = "server down <3",
+    .host_url = "https://sccl.cc",
+    .content_dir_path = "content",
+    .layouts_dir_path = "layouts",
+    .assets_dir_path = "assets",
+    .static_assets = [
+        "style.css",
+        "october-2026.webp",
+    ],
+}),

@@ -1,0 +1,28 @@
+---
+.title = "server down <3",
+.date = .date("2026-10-22T00:00:00"),
+.layout = "page.shtml",
+---
+
+```=html
+<section class="notice" aria-label="wha">
+  <p>october 2026 happened.</p>
+  <p>with the current wave of critical vulnerabilities, ive disconnected my server from the internet.</p>
+  <p>stay offline until ive finished patching and checking things.</p>
+</section>
+
+<figure class="meme">
+  <img src="/october-2026.webp" width="2048" height="1542" alt="png.webp">
+</figure>
+
+
+<section class="section" aria-labelledby="contacts-title">
+  <h2 id="contacts-title">still here</h2>
+  <nav class="links" aria-label="contacts">
+    <a href="https://t.me/scclie">[ telegram ]</a>
+    <a href="https://signal.me/#eu/TkvlB78uMmeboYc5CxuhAXZcJxcV8vVPlztUNmI0XdzDxItZZppOA7i6AJHn_bvy">[ signal ]</a>
+    <a href="https://github.com/scclie">[ github ]</a>
+    <a href="https://discord.com/app">[ discord: @sccl ]</a>
+  </nav>
+</section>
+```
